@@ -13,12 +13,4 @@ function save() {
     count = 0
     countEl.textContent = count
 }
-let lapsCompleted = 0;
-function conter() {
-    lapsCompleted = lapsCompleted + 1;
-    console.log(lapsCompleted);
-}
-conter();
-conter();
-conter();
-conter();
+
